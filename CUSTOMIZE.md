@@ -160,7 +160,7 @@ Since this template have a lot of content, you may want to remove some of it. Th
 
 ```yml
 excludes:
-   ...
+  #  ...
   - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
